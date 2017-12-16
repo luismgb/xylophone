@@ -1,11 +1,19 @@
+![Xylophone Icon](https://dl.dropboxusercontent.com/s/o0nx4e2wn803vhy/Xylophone%20Icon-60%402x.png?dl=0)
+
 # Xylophone
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9)
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
+iOS App that lets users play a xylophone.
 
-Pro: Git clone to your Xcode projects folder.
+### Known Bugs
 
-## Finished App
-<img src="https://github.com/londonappbrewery/Images/blob/master/Xylophone.png" width="400">
+None at this moment.
 
-Copyright © London App Brewery
+### Compatibility
+
+Xylophone is compatible with all iOS devices.
+
+### Authors
+
+Luis M Gonzalez
+
+Assets from London App Brewery.
